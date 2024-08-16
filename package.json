@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "expo-contacts": "^13.0.5"
+  }
+}
